@@ -1,0 +1,21 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+
+# База данных
+*.db
+*.sqlite3
+
+# Vosk модели
+models/
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
